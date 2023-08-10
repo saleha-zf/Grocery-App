@@ -23,4 +23,4 @@ Feedback and review: The user can leave a feedback and the admin can read the fe
 
 Order History: After every order, user history is stored with the time of order placement.
 
-Intuitive User Interface: Enjoy a user-friendly interface for a smooth shopping experience.
+Intuitive User Interface: Interface is kept user-friendly for a smooth shopping experience.
