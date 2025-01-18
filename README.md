@@ -4,12 +4,12 @@ A console-based grocery app made in C++ for OOP semester project
 
 ## How to Run
 
-Run `main.cpp` using the following GCC command:
+Run `main.cpp` using the following GCC command in CLI:
 
 ```bash
 gcc -o main main.cpp
 ./main
-
+```
 
 ## Features
 
