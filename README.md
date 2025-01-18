@@ -1,6 +1,18 @@
 # Grocery-App
 A console-based grocery app made in C++ for OOP semester project
 
+
+## How to Run
+
+Run `main.cpp` using the following GCC command:
+
+```bash
+gcc -o main main.cpp
+./main
+
+
+## Features
+
 Object-Oriented Design: the design is based on OOP principles of encapsulation, abstraction, inheritance, and polymorphism.
 
 User Authentication & Encryption: The app has a secure login system. Password encryption is also enabled.
@@ -15,7 +27,7 @@ Diverse Product Catalog: Users can choose from a wide variety of products to add
 
 Multiple Payment Options: Seamlessly pay through multiple secure payment methods.
 
-Efficient Product Search: Quickly find products using search functionality.
+Product Search: Quickly find products using multiple types of search options.
 
 Smart Product Filtering: Filter products by name, region, and price range.
 
@@ -24,3 +36,4 @@ Feedback and review: The user can leave a feedback and the admin can read the fe
 Order History: After every order, user history is stored with the time of order placement.
 
 Intuitive User Interface: Interface is kept user-friendly for a smooth shopping experience.
+
